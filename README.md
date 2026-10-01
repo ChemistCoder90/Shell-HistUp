@@ -1,6 +1,6 @@
-# history-prefix-search
+# Shell HistUp
 
-**Prepare with AI**
+**Prepared with AI**
 
 **I found the idea from someone repo. I didn't find him to give credit. If U know, let me know the repo. I will Definitely give him credit.**
 
