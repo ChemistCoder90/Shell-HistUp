@@ -15,8 +15,7 @@ With nothing typed, Up and Down behave normally. Works in **bash** and **zsh**.
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/history-prefix-search.git
-cd history-prefix-search
+git clone https://github.com/ChemistCoder90/Shell-HistUp.git
 ./install.sh            # auto-detects bash and zsh
 ```
 
